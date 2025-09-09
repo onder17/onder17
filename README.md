@@ -2,8 +2,8 @@
   <img src="https://wallpaperbat.com/img/873554-full-stack-java-programming-language.png" alt="MasterHead" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Görkem</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Görkem.</h1>
+<i><h3 align="center">A passionate backend developer from Turkey 	&#x1f1f9;&#x1f1f7;</h3></i>
 
 - 🔭 I’m currently working on **beyinApp-Java**  
 - 🌱 I’m currently learning **FrontEnd, C#(.NET), Spring Boot**  
