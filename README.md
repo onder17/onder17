@@ -19,6 +19,7 @@
   <a href="https://linkedin.com/in/görkem önder" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="görkem önder" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/grkm_onder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grkm_onder" height="30" width="40" /></a>
 </p>
 
 ---
