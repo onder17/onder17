@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onder17" alt="onder17" /></a> </p>
 
-- 🔭 I’m currently working on **beyinApp-Java**  
-- 🌱 I’m currently learning **FrontEnd, C#(.NET), Spring Boot**  
+- 🔭 I’m currently working on **beyinApp-Java(Spring Boot)**  
+- 🌱 I’m currently learning **FrontEnd, C#(.NET), C++(for Unreal Engine), Spring Boot**  
 - 📫 How to reach me: **grkmonder17@gmail.com**  
 
 ---
