@@ -63,13 +63,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onder17&show_icons=true&locale=en&layout=compact" alt="onder17" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onder17&show_icons=true&locale=en" alt="onder17" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onder17&" alt="onder17" />
