@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperbat.com/img/873554-full-stack-java-programming-language.png" alt="MasterHead" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFXBYZ4zUJgpA/profile-displaybackgroundimage-shrink_350_1400/B4DZsirROCKsAY-/0/1765813327430?e=1767830400&v=beta&t=q4SJFSOebWmF33u5huCPmcG2NI5SwBpNo9nsOqATFsk" alt="MasterHead" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Görkem.</h1>
