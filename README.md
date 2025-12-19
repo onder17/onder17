@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFXBYZ4zUJgpA/profile-displaybackgroundimage-shrink_350_1400/B4DZsirROCKsAY-/0/1765813327430?e=1767830400&v=beta&t=q4SJFSOebWmF33u5huCPmcG2NI5SwBpNo9nsOqATFsk" alt="MasterHead" width="100%" />
+<img width="2816" height="1342" alt="Gemini_Generated_Image_bbt15vbbt15vbbt1" src="https://github.com/user-attachments/assets/929b80d7-3688-4464-a954-135feaef29f5" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Görkem.</h1>
