@@ -6,7 +6,7 @@
 <i><h3 align="center">A passionate backend developer from Turkey 	&#x1f1f9;&#x1f1f7;</h3></i>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onder17&label=Profile%20views&color=0e75b6&style=flat" alt="onder17" /> </p>
 
-- 🔭 I’m currently working on **brainApp-Java(Spring Boot), comeat-Java(Spring Boot)**  
+- 🔭 I’m currently working on **brainApp-Java(Spring Boot), comeat-Java(Spring Boot), smartWash-Python**  
 - 🌱 I’m currently learning **FrontEnd, C#(.NET), C++(for Unreal Engine), Spring Boot, Data Science and Machine Learning(with Python)**
 - 🎮 Hobbies: **Computer Games, Reading Book, Watch Series, Football**  
 - 📫 How to reach me: **grkmonder17@gmail.com**  
