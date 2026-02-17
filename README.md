@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2816" height="1342" alt="Gemini_Generated_Image_bbt15vbbt15vbbt1" src="https://github.com/user-attachments/assets/929b80d7-3688-4464-a954-135feaef29f5" />
+<img width="2816" height="1342" alt="Gemini_Generated_Image_bbt15vbbt15vbbt1" src="https://github.com/user-attachments/assets/93571f17-5514-4e1e-9169-5332e9d89546" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Görkem.</h1>
@@ -67,3 +67,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onder17&" alt="onder17" />
 </p>
+
